@@ -194,7 +194,7 @@ ul.about-content {
 }
 .about-left {
 	flex-basis: 30%;
-	background-image: url(images/2.jpg);
+	background-image: url(2.jpg);
 }
 .about-right {
 	flex-basis: 70%;
